@@ -1,0 +1,6 @@
+C:\Users\Christina\Documents\Programming Projects\programlearn1\programlearn1\bin\Debug\programlearn1.exe.config
+C:\Users\Christina\Documents\Programming Projects\programlearn1\programlearn1\bin\Debug\programlearn1.exe
+C:\Users\Christina\Documents\Programming Projects\programlearn1\programlearn1\bin\Debug\programlearn1.pdb
+C:\Users\Christina\Documents\Programming Projects\programlearn1\programlearn1\obj\Debug\programlearn1.csprojResolveAssemblyReference.cache
+C:\Users\Christina\Documents\Programming Projects\programlearn1\programlearn1\obj\Debug\programlearn1.exe
+C:\Users\Christina\Documents\Programming Projects\programlearn1\programlearn1\obj\Debug\programlearn1.pdb
